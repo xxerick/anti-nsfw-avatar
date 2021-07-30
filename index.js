@@ -3,7 +3,7 @@ const client = new Discord.Client();
 const config = require("./config.json");
 const deepai = require('deepai');
 
-deepai.setApiKey('DEEP_AI_APIKEY_BURAYA');
+deepai.setApiKey('DEEP_AI_APIKEY');
 
 
 
